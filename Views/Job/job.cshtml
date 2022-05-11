@@ -1,0 +1,79 @@
+﻿@model PostedJobAdViewModel
+@{
+    ViewData["Title"] = "Job";
+    Layout = "~/Views/Shared/_JobLayout.cshtml";
+}
+
+<main role="main">
+
+    <section class="jumbotron text-center mb-0 uoa-bg-dark-blue">
+        <div class="container">
+            <h1 class="title" onclick="window.history.back()">Student Job Board</h1>     
+        </div>
+    </section>
+
+    <div class="album bg-light">
+        
+        <div class="container pt-3">
+            <div><a href="#" onclick="window.history.back()"><< Go Back Job List</a> </div>
+            <div class="row  justify-content-center">
+
+                @if (Model == null)
+                {
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="job-box">
+                            <h2>Sorry, this job ad does not existed or has already been invaild.</h2>
+                            <div class="mb-3">Please go back to <a href="/" style="color: #0039A6">home page</a> to browse the other jobs.</div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+
+                    <div class="col-md-8 col-xl-8">
+                        <div class="job-box shadow-lg">
+                            <div class="job-title">@Model.JobTitle</div>
+                            <div class="row mt-2" style="font-family:national">
+                                <div class=" col-md-12">@Model.Location</div>
+                                <div class=" col-md-12">@Model.Category</div>
+                                <div class=" col-md-12">@Model.WorkType • @Model.PayType • @Model.ContractType</div>
+                                <div class=" col-md-6">Job Startes from @Model.StartDate.ToString("dd/MM/yyyy")</div>
+                                <div class=" col-md-6">Application Closes on @Model.ClosingDate.ToString("dd/MM/yyyy")</div>
+                                <div class="text-muted my-2 col-12"> Posted on @Model.ApprovalDate.ToString("dd/MM/yyyy") </div>
+                            </div>
+
+                            <hr class="my-2 uoa-bg-body-grey">
+                            <div class="role-description">@Model.RoleDescription</div>
+                            <hr class="my-2 uoa-bg-body-grey">
+                            <div class="key-skills">@Html.Raw(Model.KeySkills)</div>
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 col-xl-4">
+                        <div class="company-box shadow-lg">
+                            <div class="text-muted">Company</div>
+                            <div class="company-name">@Model.CompanyName</div>
+                            <div class="company-detail">@Model.CompanyDetail</div>
+                            <div class="row contact-detail">
+                                <h4 class="col-12">Contact Details</h4>
+                                <div class="contact-position-title col-md-12">Title: @Model.ContactPositionTitle</div>
+                                <div class="contact-name col-md-12">Name: @Model.ContactName</div>
+                                <div class="contact-email col-md-12">Email: @Model.ContactEmail</div>
+                                <div class="contact-phone col-md-12">Phone: @Model.ContactPhone</div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+
+                <!-- Pager-->
+                <!--<div class="d-flex justify-content-end mb-4"><a class="btn btn-primary text-uppercase" href="#!">Older Posts →</a></div>-->
+            </div>
+        </div>
+    </div>
+
+</main>

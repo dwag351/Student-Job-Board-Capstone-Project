@@ -1,0 +1,199 @@
+﻿@model JobListViewModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "employer Site";
+
+}
+<div class="content-wrapper" style="min-height: 1602px;">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Job Management</h1>
+                </div>
+
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="card">
+
+            <div class="card-body row">
+                <div class="form-group row col-md-4">
+                    <label for="inputEmail3" class="col-sm-3 col-form-label">Category</label>
+                    <div class="col-sm-8">
+                        <select style="width: 100%;" asp-items="@Model.Categories" class="form-control" id="category">
+                            <option value="0">All</option>
+                        </select>
+                    </div>
+                </div>
+    
+                <div class="form-group row col-md-4">
+                    <label for="inputEmail3" class="col-sm-3 col-form-label">Job Status</label>
+                    <div class="col-sm-7">
+                        <select style="width: 100%;" asp-items="@Model.JobStatuses" class="form-control" id="job-status">
+                            <option value="0">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row col-md-4">
+                    <label for="inputEmail3" class="col-sm-3 col-form-label">Work Type</label>
+                    <div class="col-sm-7">
+                        <select style="width: 100%;" asp-items="@Model.WorkTypes" class="form-control" id="work-type">
+                            <option value="0">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row col-md-4">
+                    <label for="inputEmail3" class="col-sm-3 col-form-label">Pay Type</label>
+                    <div class="col-sm-7">
+                        <select style="width: 100%;" asp-items="@Model.PayTypes" class="form-control" id="pay-type">
+                            <option value="0">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row col-md-4">
+                    <label for="inputEmail3" class="col-sm-4 col-form-label">Contract Type</label>
+                    <div class="col-sm-7">
+                        <select style="width: 100%;" asp-items="@Model.ContactTypes" class="form-control" id="contract-type">
+                            <option value="0">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row col-md-3">
+                    <button class="btn btn-primary" id="search-btn">Search</button>
+                </div>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- Default box -->
+        <div class="card">
+
+            <div class="card-body">
+                <table class="table table-striped projects" id="job-list">
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.content -->
+</div>
+<div class="modal fade" id="TestModal" role="dialog"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Auto Expire Test</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="job-id" value="" />
+                <h4>In practice, this feature should not exist. We use this to simulate an expired job ad.</h4>
+                <h4>An approved job ad should be automatically taken down after 1 month. So please reselect an appoval date.</h4>
+                <h4>Background service will take down the expired job ad in 1 minute.</h4>
+                <div class="form-group row">
+                    <label for="approval-date" class="col-form-label col-sm-6">New Approval Date:</label>
+                    <input type="text" class="form-control  col-sm-6 datepicker" name='name' id="approval-date">
+                </div>
+
+
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" name='cmd' value='new' class="btn btn-primary test-save-btn">Save</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="view-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+            <form asp-controller="admin" asp-action="users" id="new-user-form" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Job Detail</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <dl class="row">
+                        <div class="col-md-6 p-0">
+                            <dt class="col-md-12">Position</dt>
+                            <dd id="d-position" class="col-md-12"></dd>
+                        </div>
+                        <div class="col-md-6 p-0">
+                            <dt class="col-md-12">Company</dt>
+                            <dd id="d-company" class="col-md-12"></dd>
+                        </div>
+
+
+                        <dt class="col-md-12">Role Description</dt>
+                        <dd id="d-role-description" class="col-md-12"></dd>
+                        @*<dd class="col-sm-8 offset-sm-4">Donec id elit non mi porta gravida at eget metus.</dd>*@
+                        <dt class="col-md-12">Key Skills</dt>
+                        <div id="d-key-skills" class="my-3 border border-dark col-md-12 " style="max-height:350px;overflow-y:scroll;"></div>
+                        <div class="col-md-6 p-0">
+                            <dt class="col-md-12">Contactor Title</dt>
+                            <dd class="col-md-12" id="d-contactor-title"></dd>
+                            <dt class="col-md-12">Contactor Email</dt>
+                            <dd class="col-md-12" id="d-contactor-email"></dd>
+                            <dt class="col-md-12">Work Type</dt>
+                            <dd class="col-md-12" id="d-work-type"></dd>
+                            <dt class="col-md-12">Pay Type</dt>
+                            <dd class="col-md-12" id="d-pay-type"></dd>
+                            <dt class="col-md-12">Start Date</dt>
+                            <dd class="col-md-12" id="d-start-date"></dd>
+                        </div>
+                        <div class="col-md-6 p-0">
+                            <dt class="col-md-12">Contactor Name</dt>
+                            <dd id="d-contactor-name" class="col-md-12"></dd>
+
+                            <dt class="col-md-12">Contactor Phone</dt>
+                            <dd id="d-contactor-phone" class="col-md-12"></dd>
+                            <dt class="col-md-12">Contract Type</dt>
+                            <dd class="col-md-12" id="d-contract-type"></dd>
+                            <dt class="col-md-12">Location</dt>
+                            <dd class="col-md-12" id="d-location"></dd>
+                            <dt class="col-md-12">Closing Date</dt>
+                            <dd class="col-md-12" id="d-close-date"></dd>
+                        </div>
+
+                    </dl>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/lib/echart5.2/echarts.min.js"></script>
+
+    <script src="~/lib/bootstrap-table/bootstrap-table.min.js"></script>
+    <script src="~/lib/sweetalert2/sweetalert2.js"></script>
+    <script src="~/lib/datepicker/datepicker.js"></script>
+    <script src="~/js/jobmanagement.js"></script>
+}
+@section Styles{
+    <link href="~/lib/bootstrap-table/bootstrap-table.min.css" rel="stylesheet" />
+    <link href="~/lib/sweetalert2/sweetalert2.css" rel="stylesheet" />
+    <link href="~/lib/datepicker/datepicker.css" rel="stylesheet" />
+}
+
+
+
+

@@ -1,0 +1,189 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<AdminUser>;
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Admin";
+}
+
+<div class="content-wrapper" style="min-height: 1602px;">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Admin User</h1>
+                </div>
+                <div class="col-sm-6">
+                    <button class="btn btn-primary float-right" data-toggle="modal" data-target="#NewModal">Create New User</button>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="card">
+
+            <div class="card-body p-0">
+                <table class="table table-striped projects">
+                    <thead>
+                        <tr>
+                            <th style="width: 1%">
+                                Id
+                            </th>
+                            <th style="width: 20%">
+                                Name
+                            </th>
+                            <th style="width: 30%">
+                                Email
+                            </th>
+                            <th class="project-actions text-right">
+                                Action
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (AdminUser adminUser in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @adminUser.Id
+                                </td>
+                                <td>
+                                    @adminUser.Name
+                                </td>
+                                <td>
+                                    @adminUser.Email
+                                </td>
+
+                                <td class="project-actions text-right">
+                                    @*<a class="btn btn-info btn-sm edit-btn" data-toggle="modal" data-target="#EditModal"
+                                       data-id="@adminUser.Id"
+                                       data-name="@adminUser.Name"
+                                       data-Email="@adminUser.Email"
+                                       href="#">
+                                        <i class="fas fa-pencil-alt">
+                                        </i>
+                                        Edit
+                                    </a>*@
+                                    @if (@adminUser.Id != 1)//root admin user
+                                    {
+
+                                        <a class="btn btn-danger btn-sm delete-btn" href="#" data-id="@adminUser.Id">
+                                            <i class="fas fa-trash">
+                                            </i>
+                                            Delete
+                                        </a>
+                                    }
+
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.content -->
+</div>
+
+
+<div class="modal fade" id="NewModal"  role="dialog"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form asp-controller="admin" asp-action="users" id="new-user-form" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">New Admin User</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div class="form-group row">
+                        <label for="new-name-input" class="col-form-label col-sm-4">Name:</label>
+                        <input type="text" class="form-control  col-sm-8" name='name' id="new-name-input">
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="new-email-input" class="col-form-label col-sm-4">Email:</label>
+                        <input type="text" class="form-control  col-sm-8" name='email' id="new-email-input" autocomplete="off">
+                    </div>
+                    <div class="form-group row">
+                        <label for="new-password-input" class="col-form-label col-sm-4">Password:</label>
+                        <input type="password" class="form-control  col-sm-8" name='password' id="new-password-input" autocomplete="new-password" />
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" name='cmd' value='new' class="btn btn-primary">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="EditModal" role="dialog"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form asp-controller="admin" asp-action="users" id="new-user-form" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">New Admin User</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div class="form-group row">
+                        <label for="new-name-input" class="col-form-label col-sm-4">Name:</label>
+                        <input type="text" class="form-control  col-sm-8" name='name' id="new-name-input">
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="new-email-input" class="col-form-label col-sm-4">Email:</label>
+                        <input type="text" class="form-control  col-sm-8" name='email' id="new-email-input" autocomplete="off">
+                    </div>
+                    <div class="form-group row">
+                        <label for="new-password-input" class="col-form-label col-sm-4">Password:</label>
+                        <input type="password" class="form-control  col-sm-8" name='password' id="new-password-input" autocomplete="new-password" />
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" name='cmd' value='new' class="btn btn-primary">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Styles {
+
+    <link href="~/lib/sweetalert2/sweetalert2.css" rel="stylesheet" />
+}
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation/dist/additional-methods.js"></script>
+    <script src="~/lib/sweetalert2/sweetalert2.js"></script>
+    <script src="~/js/users.js"></script>
+}

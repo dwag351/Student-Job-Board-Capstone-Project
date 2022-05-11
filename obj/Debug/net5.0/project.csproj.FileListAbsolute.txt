@@ -1,0 +1,1653 @@
+D:\339project\project\bin\Debug\net5.0\appsettings.Development.json
+D:\339project\project\bin\Debug\net5.0\appsettings.json
+D:\339project\project\bin\Debug\net5.0\project.exe
+D:\339project\project\bin\Debug\net5.0\project.deps.json
+D:\339project\project\bin\Debug\net5.0\project.runtimeconfig.json
+D:\339project\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+D:\339project\project\bin\Debug\net5.0\project.dll
+D:\339project\project\bin\Debug\net5.0\ref\project.dll
+D:\339project\project\bin\Debug\net5.0\project.pdb
+D:\339project\project\bin\Debug\net5.0\project.Views.dll
+D:\339project\project\bin\Debug\net5.0\project.Views.pdb
+D:\339project\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+D:\339project\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\339project\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+D:\339project\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+D:\339project\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+D:\339project\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\339project\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+D:\339project\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+D:\339project\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\339project\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+D:\339project\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+D:\339project\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+D:\339project\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+D:\339project\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+D:\339project\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\339project\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+D:\339project\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+D:\339project\project\obj\Debug\net5.0\project.Views.pdb
+D:\339project\project\obj\Debug\net5.0\project.dll
+D:\339project\project\obj\Debug\net5.0\ref\project.dll
+D:\339project\project\obj\Debug\net5.0\project.pdb
+D:\339project\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+D:\339project\project\obj\Debug\net5.0\project.csproj.CopyComplete
+D:\339project\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+D:\399project\project\bin\Debug\net5.0\appsettings.Development.json
+D:\399project\project\bin\Debug\net5.0\appsettings.json
+D:\399project\project\bin\Debug\net5.0\project.exe
+D:\399project\project\bin\Debug\net5.0\project.deps.json
+D:\399project\project\bin\Debug\net5.0\project.runtimeconfig.json
+D:\399project\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+D:\399project\project\bin\Debug\net5.0\project.dll
+D:\399project\project\bin\Debug\net5.0\ref\project.dll
+D:\399project\project\bin\Debug\net5.0\project.pdb
+D:\399project\project\bin\Debug\net5.0\project.Views.dll
+D:\399project\project\bin\Debug\net5.0\project.Views.pdb
+D:\399project\project\bin\Debug\net5.0\Humanizer.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\399project\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\399project\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\399project\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\399project\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\399project\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\399project\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\399project\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+D:\399project\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+D:\399project\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+D:\399project\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\399project\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+D:\399project\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+D:\399project\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\399project\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+D:\399project\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+D:\399project\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+D:\399project\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+D:\399project\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+D:\399project\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+D:\399project\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+D:\399project\project\obj\Debug\net5.0\project.Views.pdb
+D:\399project\project\obj\Debug\net5.0\project.csproj.CopyComplete
+D:\399project\project\obj\Debug\net5.0\project.dll
+D:\399project\project\obj\Debug\net5.0\ref\project.dll
+D:\399project\project\obj\Debug\net5.0\project.pdb
+D:\399project\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+D:\399project\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\399project\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\399project\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\399project\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\399project\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\399project\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\399project\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\399project\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\399project\project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\399project\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\399project\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\399project\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\399project\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\399project\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\399project\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\399project\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+D:\399project\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Employer\Index.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Employer\Postad.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Employer\Register.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Employer\SignIn.cshtml.g.cs
+D:\399project\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\appsettings.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.exe
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.deps.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.runtimeconfig.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.Views.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Employer\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Employer\Postad.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Employer\Register.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Employer\SignIn.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.csproj.CopyComplete
+C:\Users\xutie\OneDrive\桌面\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\appsettings.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.exe
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.deps.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.runtimeconfig.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ref\project.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.Views.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\project.Views.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alexx\OneDrive\Desktop\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.Views.pdb
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.csproj.CopyComplete
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.dll
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\ref\project.dll
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.pdb
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+C:\Users\alexx\OneDrive\Desktop\project\obj\Debug\net5.0\Razor\Views\Employer\invalid.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\appsettings.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.exe
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.deps.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.runtimeconfig.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.Views.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.csproj.CopyComplete
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Google.Apis.Auth.AspNetCore3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\project\bin\Debug\net5.0\RestSharp.dll
+C:\Users\xutie\OneDrive\桌面\New folder\project\obj\Debug\net5.0\Razor\Views\Home\Index - Copy.cshtml.g.cs
+G:\stu\project\bin\Debug\net5.0\appsettings.Development.json
+G:\stu\project\bin\Debug\net5.0\appsettings.json
+G:\stu\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+G:\stu\project\bin\Debug\net5.0\project.exe
+G:\stu\project\bin\Debug\net5.0\project.deps.json
+G:\stu\project\bin\Debug\net5.0\project.runtimeconfig.json
+G:\stu\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+G:\stu\project\bin\Debug\net5.0\project.dll
+G:\stu\project\bin\Debug\net5.0\ref\project.dll
+G:\stu\project\bin\Debug\net5.0\project.pdb
+G:\stu\project\bin\Debug\net5.0\project.Views.dll
+G:\stu\project\bin\Debug\net5.0\project.Views.pdb
+G:\stu\project\bin\Debug\net5.0\Google.Apis.dll
+G:\stu\project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+G:\stu\project\bin\Debug\net5.0\Google.Apis.Auth.dll
+G:\stu\project\bin\Debug\net5.0\Google.Apis.Auth.AspNetCore3.dll
+G:\stu\project\bin\Debug\net5.0\Google.Apis.Core.dll
+G:\stu\project\bin\Debug\net5.0\Humanizer.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\stu\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\stu\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\stu\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\stu\project\bin\Debug\net5.0\RestSharp.dll
+G:\stu\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\stu\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\stu\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\stu\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\stu\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\stu\project\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\stu\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\stu\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\stu\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\stu\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\stu\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\stu\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\stu\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\stu\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\stu\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\stu\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\stu\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\stu\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\stu\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\stu\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\stu\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+G:\stu\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+G:\stu\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+G:\stu\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+G:\stu\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+G:\stu\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cs
+G:\stu\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+G:\stu\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+G:\stu\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+G:\stu\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+G:\stu\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+G:\stu\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+G:\stu\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+G:\stu\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+G:\stu\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\stu\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+G:\stu\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+G:\stu\project\obj\Debug\net5.0\project.Views.pdb
+G:\stu\project\obj\Debug\net5.0\project.csproj.CopyComplete
+G:\stu\project\obj\Debug\net5.0\project.dll
+G:\stu\project\obj\Debug\net5.0\ref\project.dll
+G:\stu\project\obj\Debug\net5.0\project.pdb
+G:\stu\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\appsettings.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.exe
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.deps.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.runtimeconfig.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.Views.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Google.Apis.Auth.AspNetCore3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\RestSharp.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.Views.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.csproj.CopyComplete
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\ref\project.dll
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.pdb
+C:\Users\xutie\OneDrive\桌面\New folder\1\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+D:\399project\new\project\bin\Debug\net5.0\appsettings.Development.json
+D:\399project\new\project\bin\Debug\net5.0\appsettings.json
+D:\399project\new\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+D:\399project\new\project\bin\Debug\net5.0\project.exe
+D:\399project\new\project\bin\Debug\net5.0\project.deps.json
+D:\399project\new\project\bin\Debug\net5.0\project.runtimeconfig.json
+D:\399project\new\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+D:\399project\new\project\bin\Debug\net5.0\project.dll
+D:\399project\new\project\bin\Debug\net5.0\ref\project.dll
+D:\399project\new\project\bin\Debug\net5.0\project.pdb
+D:\399project\new\project\bin\Debug\net5.0\project.Views.dll
+D:\399project\new\project\bin\Debug\net5.0\project.Views.pdb
+D:\399project\new\project\bin\Debug\net5.0\Google.Apis.dll
+D:\399project\new\project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\399project\new\project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\399project\new\project\bin\Debug\net5.0\Google.Apis.Auth.AspNetCore3.dll
+D:\399project\new\project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\399project\new\project\bin\Debug\net5.0\Humanizer.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\399project\new\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\399project\new\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\399project\new\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\399project\new\project\bin\Debug\net5.0\RestSharp.dll
+D:\399project\new\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\399project\new\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\399project\new\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\399project\new\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\399project\new\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\399project\new\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\new\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\new\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\399project\new\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\399project\new\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\new\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+D:\399project\new\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\399project\new\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+D:\399project\new\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+D:\399project\new\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+D:\399project\new\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cs
+D:\399project\new\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\399project\new\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+D:\399project\new\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+D:\399project\new\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\399project\new\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+D:\399project\new\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+D:\399project\new\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+D:\399project\new\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+D:\399project\new\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\399project\new\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+D:\399project\new\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+D:\399project\new\project\obj\Debug\net5.0\project.Views.pdb
+D:\399project\new\project\obj\Debug\net5.0\project.csproj.CopyComplete
+D:\399project\new\project\obj\Debug\net5.0\project.dll
+D:\399project\new\project\obj\Debug\net5.0\ref\project.dll
+D:\399project\new\project\obj\Debug\net5.0\project.pdb
+D:\399project\new\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+D:\399project\ClientVersion\project\bin\Debug\net5.0\appsettings.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\appsettings.Development.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.exe
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.deps.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.runtimeconfig.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ref\project.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.Views.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\project.Views.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Google.Apis.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Google.Apis.Auth.AspNetCore3.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Humanizer.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\RestSharp.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\399project\ClientVersion\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+D:\399project\ClientVersion\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.Views.pdb
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.csproj.CopyComplete
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.dll
+D:\399project\ClientVersion\project\obj\Debug\net5.0\ref\project.dll
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.pdb
+D:\399project\ClientVersion\project\obj\Debug\net5.0\project.genruntimeconfig.cache
+D:\399\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+D:\399\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\399\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+D:\399\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+D:\399\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+D:\399\project\obj\Debug\net5.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\399\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cache
+D:\399\project\obj\Debug\net5.0\project.RazorAssemblyInfo.cs
+D:\399\project\obj\Debug\net5.0\project.dll
+D:\399\project\obj\Debug\net5.0\ref\project.dll
+D:\399\project\obj\Debug\net5.0\project.pdb
+D:\399\project\bin\Debug\net5.0\appsettings.Development.json
+D:\399\project\bin\Debug\net5.0\appsettings.json
+D:\399\project\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+D:\399\project\bin\Debug\net5.0\project.exe
+D:\399\project\bin\Debug\net5.0\project.deps.json
+D:\399\project\bin\Debug\net5.0\project.runtimeconfig.json
+D:\399\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+D:\399\project\bin\Debug\net5.0\project.dll
+D:\399\project\bin\Debug\net5.0\ref\project.dll
+D:\399\project\bin\Debug\net5.0\project.pdb
+D:\399\project\bin\Debug\net5.0\project.Views.dll
+D:\399\project\bin\Debug\net5.0\project.Views.pdb
+D:\399\project\bin\Debug\net5.0\Humanizer.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\399\project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\399\project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\399\project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\399\project\bin\Debug\net5.0\RestSharp.dll
+D:\399\project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\399\project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\399\project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\399\project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\399\project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\399\project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\399\project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\399\project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\399\project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\399\project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\399\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\399\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\399\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\399\project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399\project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\399\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\399\project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\399\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\399\project\obj\Debug\net5.0\staticwebassets\project.StaticWebAssets.xml
+D:\399\project\obj\Debug\net5.0\scopedcss\bundle\project.styles.css
+D:\399\project\obj\Debug\net5.0\project.TagHelpers.input.cache
+D:\399\project\obj\Debug\net5.0\project.TagHelpers.output.cache
+D:\399\project\obj\Debug\net5.0\project.RazorCoreGenerate.cache
+D:\399\project\obj\Debug\net5.0\Razor\Views\Admin\DashBoard.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Admin\JobManagement.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Admin\SignIn.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Employer\index.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Employer\result.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Employer\survey.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Job\job.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Shared\_EmployerLayout.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\Shared\_JobLayout.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\399\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cache
+D:\399\project\obj\Debug\net5.0\project.RazorTargetAssemblyInfo.cs
+D:\399\project\obj\Debug\net5.0\project.Views.pdb
+D:\399\project\obj\Debug\net5.0\project.csproj.CopyComplete
+D:\399\project\obj\Debug\net5.0\project.genruntimeconfig.cache

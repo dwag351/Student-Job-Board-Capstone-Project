@@ -1,0 +1,203 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model PostedJobAdViewModel
+@{
+    ViewData["Title"] = "Post your Job Advert";
+    Layout = "~/Views/Shared/_EmployerLayout.cshtml";
+    int msgCode = Convert.ToInt32(TempData["msgCode"]);
+    string msgText = Convert.ToString(TempData["msgText"]);
+}
+<div class="jumbotron">
+    <h1>Post your Job Advert </h1>
+    <p class="lead">Please complete the following information to post an ad. After the administrator’s review, your ad will be displayed. The ad is valid for one month.</p>
+
+</div>
+@if (msgCode == 2)
+{
+    <div class="alert alert-danger" role="alert">
+        @msgText
+    </div>
+}
+else if (msgCode == 1)
+{
+    <div class="alert alert-success" role="alert">
+        @msgText
+    </div>
+}
+
+<div class="col-md-12 order-md-1">
+
+    <form method="post" asp-controller="employer" asp-action="index">
+        <div class="mb-3">
+            <label asp-for="CompanyName">Company</label>
+            <input type="text" asp-for="CompanyName" class="form-control" placeholder="Company">
+            <span asp-validation-for="CompanyName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="CompanyDetail">Company Information</label>
+            <textarea class="form-control" asp-for="CompanyDetail" style="height:100px" placeholder="Please introduce your company.">
+        </textarea>
+            <span asp-validation-for="CompanyDetail" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="JobTitle">Job Title</label>
+            <input type="text" asp-for="JobTitle" class="form-control" placeholder="Job Title">
+            <span asp-validation-for="JobTitle" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Location">Location</label>
+            <input type="text" class="form-control" asp-for="Location" placeholder="location">
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="CategoryId">Category</label>
+            <select class="custom-select d-block w-100" asp-for="CategoryId" asp-items="Model.Categories">
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row">
+            <div class=" col-md-6">
+                <label asp-for="StartDateString">Job Starts From</label>
+                <input type="text" class="form-control datepicker" autocomplete="off" asp-for="StartDateString">
+                <span asp-validation-for="StartDateString" class="text-danger"></span>
+            </div>
+            <div class="col-md-6">
+                <label asp-for="ClosingDateString">Application Closes On</label>
+                <input type="text" class="form-control datepicker" autocomplete="off" asp-for="ClosingDateString">
+                <span asp-validation-for="ClosingDateString" class="text-danger"></span>
+            </div>
+        </div>
+
+
+        <hr class="mb-4">
+        <div class="row">
+            <div class="col-md-4">
+                <h4 class="mb-3">Work Type</h4>
+                <div class="d-block my-3">
+
+
+                    @foreach (var workType in Model.WorkTypes)
+                    {
+                        <div class="custom-control custom-radio">
+                            <input id="@workType.Text" asp-for="WorkTypeId" type="radio" class="custom-control-input" checked="@(workType.Value== "1" ? "checked" : null)" value="@workType.Value">
+                            <label class="custom-control-label" for="@workType.Text">@workType.Text</label>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h4 class="mb-3">Pay Type</h4>
+                <div class="d-block my-3">
+
+                    @foreach (var payType in Model.PayTypes)
+                    {
+                        <div class="custom-control custom-radio">
+                            <input id="@payType.Text" asp-for="PayTypeId" type="radio" class="custom-control-input" checked="@(payType.Value== "1" ? "checked" : null)" value="@payType.Value">
+                            <label class="custom-control-label" for="@payType.Text">@payType.Text</label>
+                        </div>
+                    }
+                </div>
+
+            </div>
+            <div class="col-md-4">
+                <h4 class="mb-3">Contract Type</h4>
+                <div class="d-block my-3">
+
+                    @foreach (var contractType in Model.ContractTypes)
+                    {
+                        <div class="custom-control custom-radio">
+                            <input id="@contractType.Text" asp-for="ContractTypeId" type="radio" class="custom-control-input" checked="@(contractType.Value== "1" ? "checked" : null)" value="@contractType.Value">
+                            <label class="custom-control-label" for="@contractType.Text">@contractType.Text</label>
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+        <hr class="mb-4">
+
+
+        <div class="mb-3">
+            <label asp-for="RoleDescription">Role Description</label>
+            <textarea class="form-control" asp-for="RoleDescription" style="height:200px" placeholder="Please describe this job briefly, and this summary will display in candidate search results.">
+        </textarea>
+            <span asp-validation-for="RoleDescription" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="KeySkills">Key Skill</label>
+            <textarea class="form-control key-skill-textarea" asp-for="KeySkills">@Model.KeySkills</textarea>
+            <span asp-validation-for="KeySkills" class="text-danger"></span>
+        </div>
+        <hr class="mb-4">
+        <div class="row">
+            <div class="mb-3 col-md-6">
+                <label asp-for="ContactPositionTitle">Contact Position Title</label>
+                <input type="text" asp-for="ContactPositionTitle" class="form-control" placeholder="Contact Position Title">
+                <span asp-validation-for="ContactPositionTitle" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label asp-for="ContactName">Contact Name</label>
+                <input type="text" asp-for="ContactName" class="form-control" placeholder="Contact Name">
+                <span asp-validation-for="ContactName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 col-md-6">
+                <label asp-for="ContactEmail">Contact Email</label>
+                <input type="text" asp-for="ContactEmail" class="form-control" placeholder="Contact Email">
+                <span asp-validation-for="ContactEmail" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label asp-for="ContactPhone">Contact Phone</label>
+                <input type="text" asp-for="ContactPhone" class="form-control" placeholder="Contact Phone">
+                <span asp-validation-for="ContactPhone" class="text-danger"></span>
+            </div>
+        </div>
+
+        <hr class="mb-4">
+        <button class="btn btn-primary btn-lg btn-block" type="submit">POST</button>
+    </form>
+</div>
+@section Styles {
+    <link href="~/lib/summernote/summernote-bs4.min.css" rel="stylesheet" />
+    <link href="~/lib/datepicker/bootstrap.datepicker.css" rel="stylesheet" />
+    <link href="~/lib/datepicker/datepicker.css" rel="stylesheet" />
+}
+@section Scripts {
+    <script src="~/lib/summernote/summernote-bs4.min.js"></script>
+    <script src="~/lib/datepicker/datepicker.js"></script>
+    <script>
+        $('.key-skill-textarea').summernote({
+            toolbar: [
+                // [groupName, [list of button]]
+                ['style', ['bold', 'italic', 'underline', 'clear']],
+                ['fontsize', ['fontsize']],
+                ['color', ['color']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['height', ['height']]
+            ],
+            placeholder: 'Please specify the job more about the skills or the other qualities are required for the role.',
+            tabsize: 2,
+            height: 250,
+
+        });
+        $('.datepicker').datepicker({
+            format: "dd/mm/yyyy", //nz format
+            //odayBtn: "linked",//show today link
+            autoclose: true,
+            orientation: 'bottom', // show calendar under the input
+            autocomplete: 'off'
+        });
+    </script>
+}
+

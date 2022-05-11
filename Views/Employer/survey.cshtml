@@ -1,0 +1,140 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SurveyViewModel
+@{
+    ViewData["Title"] = "Survey";
+    Layout = "~/Views/Shared/_EmployerLayout.cshtml";
+    int msgCode = Convert.ToInt32(TempData["msgCode"]);
+    string msgText = Convert.ToString(TempData["msgText"]);
+}
+<div class="jumbotron">
+    <h1>Job Ad Survey</h1>
+    <p class="lead">Thank you for filling out our advertising survey, your feedback will make us better.</p>
+
+</div>
+@if (msgCode == 2)
+{
+    <div class="alert alert-danger" role="alert">
+        @msgText
+    </div>
+}
+else if (msgCode == 1)
+{
+    <div class="alert alert-success" role="alert">
+        @msgText
+    </div>
+}
+
+<div class="col-md-12 order-md-1">
+
+    <form method="post" asp-controller="employer" asp-action="survey">
+        <h3>@Model.postedJobAdViewModel.JobTitle</h3>
+        <input type="hidden" name="id" value="@Context.Request.Query["id"]">
+        <input type="hidden" name="key" value="@Context.Request.Query["key"]">
+        <div class="mb-3 row">
+            <label asp-for="HasCandidate" class="col-md-6"></label>
+
+            <div class="col-md-6">
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="HasCandidate" class="form-check-input" value="fales" checked>No
+                    </label>
+                </div>
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="HasCandidate" class="form-check-input" value="true">Yes
+                    </label>
+                </div>
+            </div>
+
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="IsUoaStudent" class="col-md-6"></label>
+            <div class="col-md-6">
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsUoaStudent" class="form-check-input" value="fales" checked>No
+                    </label>
+                </div>
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsUoaStudent" class="form-check-input" value="true">Yes
+                    </label>
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="IsFromOurWeb" class="col-md-6"></label>
+            <div class="col-md-6">
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsFromOurWeb" class="form-check-input" value="fales" checked>No
+                    </label>
+                </div>
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsFromOurWeb" class="form-check-input" value="true">Yes
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="IsSatisfied" class="col-md-6"></label>
+            <div class="col-md-6">
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsSatisfied" class="form-check-input" value="fales" checked>No
+                    </label>
+                </div>
+                <div class="form-check-inline">
+                    <label class="form-check-label">
+                        <input type="radio" asp-for="IsSatisfied" class="form-check-input" value="true">Yes
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="CandidateQty" class="col-md-6"></label>
+            <input type="number" class="form-control col-md-6" asp-for="CandidateQty">
+
+        </div>
+
+
+
+        <hr class="mb-4">
+        <div class="mb-3">
+            <label asp-for="Feedback"></label>
+            <textarea class="form-control" asp-for="Feedback" style="height:200px">
+        </textarea>
+
+        </div>
+
+
+        <hr class="mb-4">
+        <button class="btn btn-primary btn-lg btn-block" type="submit">Submit</button>
+    </form>
+</div>
+@section Styles {
+    <link href="~/lib/summernote/summernote-bs4.min.css" rel="stylesheet" />
+    <link href="~/lib/datepicker/bootstrap.datepicker.css" rel="stylesheet" />
+    <link href="~/lib/datepicker/datepicker.css" rel="stylesheet" />
+}
+@section Scripts {
+    <script src="~/lib/summernote/summernote-bs4.min.js"></script>
+    <script src="~/lib/datepicker/datepicker.js"></script>
+    <script>
+ 
+        $('.datepicker').datepicker({
+            format: "dd/mm/yyyy", //nz format
+            //odayBtn: "linked",//show today link
+            autoclose: true,
+            orientation: 'bottom', // show calendar under the input
+            autocomplete: 'off'
+        });
+    </script>
+}
+

@@ -1,0 +1,159 @@
+﻿@model JobListViewModel
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_JobLayout.cshtml";
+}
+
+<main role="main">
+
+    <section class="jumbotron text-center mb-0 uoa-bg-dark-blue">
+        <div class="container">
+            <h1 class="title">Student Job Board</h1>
+     
+            <p class="sub-title">An online job board that lists all current vacancies specifically advertisted to UoA School of Computer Science students.</p>
+            <form asp-route="JobList" method="get">
+                <div class="row justify-content-center">
+
+                    <div class="select-wrap col-xl-3 col-md-7 ml-xl-1">
+                        <label asp-for="@Model.FormCategroyId">Category</label>
+                        <select style="width: 100%;" asp-items="@Model.Categories" asp-for="@Model.FormCategroyId">
+                            <option value="0">---</option>
+
+                        </select>
+                    </div>
+                    <div class="select-wrap col-xl-2 col-md-5 ml-xl-1">
+                        <label asp-for="@Model.FormWorkTypeId">Work Type</label>
+                        <select style="width: 100%;" asp-items="@Model.WorkTypes" asp-for="@Model.FormWorkTypeId">
+                            <option value="0">---</option>
+
+                        </select>
+                    </div>
+                    <div class="select-wrap col-xl-2 col-md-6 ml-xl-1">
+                        <label asp-for="@Model.FormPayTypeId">Pay Type</label>
+                        <select style="width: 100%;" asp-items="@Model.PayTypes" asp-for="@Model.FormPayTypeId">
+                            <option value="0">---</option>
+
+                        </select>
+                    </div>
+                    <div class="select-wrap col-xl-2 col-md-6 ml-xl-1">
+                        <label asp-for="@Model.FormContractTypeId">Contract Type</label>
+                        <select style="width: 100%;" asp-items="@Model.ContactTypes" asp-for="@Model.FormContractTypeId">
+                            <option value="0">---</option>
+
+                        </select>
+                    </div>
+                    <div class="col-xl-2">
+                        <button class="btn search-btn ml-xl-1">Go </button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+    </section>
+   
+    <div class="album bg-light">
+        <div class="container py-3">
+            @if (ViewBag.PageNumber > 1)
+            {
+
+                <nav aria-label="Page navigation  col-10" class="col-11">
+                    <ul class="pagination mb-0">
+                        @for (int i = 1; i <= ViewBag.PageNumber; i++)
+                        {
+
+                            NameValueCollection query = HttpUtility.ParseQueryString(Context.Request.QueryString.ToString());
+                            string active = query["p"] == i.ToString() ? "active" : "";
+                            if (string.IsNullOrEmpty(query["p"]) && i == 1)
+                            {
+                                active = "active";
+                            }
+
+                            query["p"] = i.ToString();
+                            string result = Context.Request.Path + "?" + query.ToString();
+
+                            <li class="page-item @active "><a class="page-link" href="@result">@i</a></li>
+                        }
+
+                    </ul>
+                </nav>
+
+
+
+
+            }
+            <div class="row">
+                @if (Model.postedJobAdViewModels.Count > 0)
+                {
+                    foreach (PostedJobAdViewModel ad in Model.postedJobAdViewModels)
+                    {
+                        <!-- Post preview-->
+                        <div class="col-md-12 ">
+
+
+                            <div class="job-box job-box-hover shadow-lg" onclick="window.location.href = '/job/@ad.JobId'">
+
+                                <div class="job-title">@ad.JobTitle</div>
+                                <div class="row mt-2">
+                                    <div class=" col-md-6">Company: @ad.CompanyName</div>
+                                    <div class=" col-md-6">Location: @ad.Location</div>
+                                    <div class=" col-md-6">Category: @ad.Category</div>
+
+                                    <div class=" col-md-6">@ad.WorkType • @ad.PayType • @ad.ContractType</div>
+                                </div>
+                                @*<div class="company-name job-info">Company: @ad.CompanyName</div>
+                            <div class="location job-info">Location: @ad.Location</div>
+                            <div class="category job-info">Category: @ad.Category</div>*@
+                                <div class="role-description only-show-2-line">@Html.Raw(ad.RoleDescription)</div>
+                                <p class="submit-date">Posted on @ad.ApprovalDate.ToString("dd/MM/yyyy")</p>
+
+
+                            </div>
+
+                        </div>
+                        <!-- Divider-->
+                        <hr class="my-2 uoa-bg-light-grey">
+                    }
+                }
+                else
+                {
+                    <div class="col-md-10 col-lg-8 col-xl-10">
+                        <div class="job-box ">
+                            <h1>Sorry, we couldn’t find anything.</h1>
+                            <h3 class="mb-3">Change or remove filters such as classification to broaden your search.</h3>
+                        </div>
+                    </div>
+
+                }
+            </div>
+            @if (ViewBag.PageNumber > 1)
+            {
+
+                <nav aria-label="Page navigation  col-10 mb-4" class="col-11">
+                    <ul class="pagination mb-0">
+                        @for (int i = 1; i <= ViewBag.PageNumber; i++)
+                        {
+
+                            NameValueCollection query = HttpUtility.ParseQueryString(Context.Request.QueryString.ToString());
+                            string active = query["p"] == i.ToString() ? "active" : "";
+                            if (string.IsNullOrEmpty(query["p"]) && i == 1)
+                            {
+                                active = "active";
+                            }
+
+                            query["p"] = i.ToString();
+                            string result = Context.Request.Path + "?" + query.ToString();
+
+                            <li class="page-item @active "><a class="page-link" href="@result">@i</a></li>
+                        }
+
+                    </ul>
+                </nav>
+
+
+
+
+            }
+        </div>
+    </div>
+
+</main>

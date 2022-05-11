@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/lib/summernote/summernote-bs4.min.css" rel="stylesheet" />
+    @await RenderSectionAsync("Styles", required: false)
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <title>@ViewData["Title"] </title>
+
+</head>
+
+
+
+
+
+<body>
+
+    <header>
+        <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 bg-white border-bottom box-shadow">
+            <div class="my-0 mr-md-auto font-weight-normal">
+                <img src="~/img/logo/UOA-NT-HC-RGB.png" style="width:180px;" />
+                <div class="logo-line">Welcome, @ViewData["google_email"]</div>
+              
+            </div>
+
+            <nav class="my-2 my-md-0 mr-md-3">
+                <a class="p-2 text-dark" asp-route="JobList">Job Board</a>
+                <a class="p-2 text-dark" asp-controller="employer" asp-action="Index">Employer Site</a>
+                <a class="p-2 text-dark" asp-controller="Admin" asp-action="Index">Admin Panel</a>
+
+            </nav>
+            
+            <a class="btn btn-outline-primary"  href="/job/logout">Logout</a>
+
+        </div>
+
+    </header>
+
+
+    @RenderBody()
+
+    <div class="container">
+        <footer class="pt-4 my-5 pt-5 border-top">
+            <div class="row">
+                <div class="col-lg-3 d-lg-block d-none">
+
+                    <img class="mb-2 ml-2" src="~/img/logo/UOA-NT-VR-RGB.png" width="220" height="220" />
+                </div>
+                <div class="col-4 col-lg-3">
+                    <h5>Member</h5>
+                    <ul class="list-unstyled text-small">
+                        <li><a class="text-muted" href="#">Zhiyuan Zheng</a></li>
+                        <li><a class="text-muted" href="#">Tiantian Wang</a></li>
+                        <li><a class="text-muted" href="#">Siyi Pan</a></li>
+                        <li><a class="text-muted" href="#">Jiasheng Liu</a></li>
+                        <li><a class="text-muted" href="#">Hayden Then</a></li>
+                        <li><a class="text-muted" href="#">Feng Xi</a></li>
+                        <li><a class="text-muted" href="#">David Wagstaff</a></li>
+                    </ul>
+                </div>
+                <div class="col-4  col-lg-3 ">
+                    <h5>Backend Stack</h5>
+                    <ul class="list-unstyled text-small">
+                        <li><a class="text-muted" href="https://dotnet.microsoft.com/download/dotnet/5.0" target="_blank">asp.net core 5.0</a></li>
+                        <li><a class="text-muted" href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">Entity Framework core</a></li>
+                        <li><a class="text-muted" href="https://en.wikipedia.org/wiki/SQL_Server_Express" target="_blank">Sql Server Express</a></li>
+                        <li><a class="text-muted" href="https://aws.amazon.com/" target="_blank">AWS</a></li>
+                    </ul>
+                </div>
+                <div class="col-4  col-lg-3 ">
+                    <h5>Frontend Stack</h5>
+                    <ul class="list-unstyled text-small">
+                        <li><a class="text-muted" href="https://jquery.com/" target="_blank">Jquery 3.5.1</a></li>
+                        <li><a class="text-muted" href="https://getbootstrap.com/" target="_blank">Bootstrap 4.6.0</a></li>
+                        <li><a class="text-muted" href="https://summernote.org/" target="_blank">summernote.js</a></li>
+                        <li><a class="text-muted" href="https://bootstrap-table.com/" target="_blank">Bootstrap-Table.js</a></li>
+                        <li><a class="text-muted" href="https://sweetalert2.github.io/" target="_blank">Sweet-Alert.js</a></li>
+                        <li><a class="text-muted" href="https://echarts.apache.org/en/index.html" target="_blank">Echarts.js</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+   
+  
+
+  
+
+</body>
+</html>
