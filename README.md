@@ -1,5 +1,5 @@
 # Online Student Job Board
-[introduction](https://drive.google.com/file/d/1k9BRbuJqZ3sjwCkTFCTf7TbC10b0Ra5m/view?usp=sharing)
+For further explanation: [Report](https://drive.google.com/file/d/1k9BRbuJqZ3sjwCkTFCTf7TbC10b0Ra5m/view?usp=sharing)
 ## Technologies Used
 - Front-end
   - Jquery 3.5.1
